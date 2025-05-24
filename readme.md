@@ -162,9 +162,9 @@ Feel free to fork this project and submit pull requests for improvements. All co
 
 ## 📞 Contact
 
-**Developer**: [Your Name]  
-**Email**: [your.email@example.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
+**Developer**: Dinesh S  
+**Email**: sdinesh14022001@gmail.com  
+**LinkedIn**: https://www.linkedin.com/in/dinesh-s-3978b819a/
 **Internship**: NSP NEXUS - Week 1 Project
 
 ---
